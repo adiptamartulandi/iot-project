@@ -1,0 +1,301 @@
+hour_of_day,cash_type,money,coffee_name,Time_of_Day,Weekday,Month_name,Weekdaysort,Monthsort,Date,Time
+17,card,33.8,Americano with Milk,Night,Tue,Apr,2,4,2024-04-16,17:42:04.208000
+22,card,35.76,Latte,Night,Mon,Oct,1,10,2024-10-14,22:21:53.865000
+10,card,35.76,Latte,Morning,Wed,Dec,3,12,2024-12-25,10:43:56.819000
+9,card,35.76,Cocoa,Morning,Mon,Mar,1,3,2025-03-10,09:50:54.123000
+16,card,25.96,Americano,Afternoon,Tue,Feb,2,2,2025-02-25,16:50:35.811000
+21,card,30.86,Americano with Milk,Night,Sun,Dec,7,12,2024-12-08,21:28:30.079000
+21,card,37.72,Cappuccino,Night,Mon,May,1,5,2024-05-27,21:30:19.772000
+12,card,27.92,Americano with Milk,Afternoon,Tue,Sep,2,9,2024-09-17,12:39:33.682000
+9,card,35.76,Cocoa,Morning,Sat,Oct,6,10,2024-10-05,09:35:44.903000
+11,card,35.76,Latte,Morning,Sat,Nov,6,11,2024-11-09,11:08:44.219000
+11,card,25.96,Americano,Morning,Sat,Mar,6,3,2025-03-08,11:19:45.578000
+18,card,37.72,Latte,Night,Fri,May,5,5,2024-05-31,18:25:03.271000
+10,card,33.8,Americano with Milk,Morning,Sat,Mar,6,3,2024-03-02,10:41:41.249000
+10,card,23.02,Cortado,Morning,Tue,Aug,2,8,2024-08-13,10:42:08.773000
+16,card,35.76,Latte,Afternoon,Fri,Oct,5,10,2024-10-18,16:09:57.876000
+9,card,23.02,Americano,Morning,Mon,Jul,1,7,2024-07-29,09:19:44.082000
+8,card,25.96,Cortado,Morning,Sun,Dec,7,12,2024-12-08,08:29:25.273000
+21,card,35.76,Hot Chocolate,Night,Sun,Oct,7,10,2024-10-20,21:14:18.045000
+14,card,35.76,Cocoa,Afternoon,Sat,Nov,6,11,2024-11-30,14:16:52.019000
+12,card,32.82,Cappuccino,Afternoon,Thu,Sep,4,9,2024-09-12,12:08:22.158000
+13,card,25.96,Americano,Afternoon,Wed,Nov,3,11,2024-11-06,13:15:32.862000
+13,card,35.76,Latte,Afternoon,Thu,Mar,4,3,2025-03-06,13:51:33.101000
+7,card,25.96,Americano,Morning,Fri,Dec,5,12,2024-12-27,07:50:20.711000
+14,card,23.02,Cortado,Afternoon,Sun,Sep,7,9,2024-09-15,14:36:19.287000
+9,card,30.86,Americano with Milk,Morning,Wed,Oct,3,10,2024-10-09,09:43:21.029000
+17,card,21.06,Espresso,Night,Wed,Oct,3,10,2024-10-09,17:49:59.552000
+19,card,30.86,Americano with Milk,Night,Wed,Jan,3,1,2025-01-29,19:19:08.258000
+9,card,30.86,Americano with Milk,Morning,Sat,Mar,6,3,2025-03-22,09:05:13.059000
+10,card,37.72,Latte,Morning,Sun,Jun,7,6,2024-06-16,10:58:41.366000
+8,card,35.76,Latte,Morning,Sun,Nov,7,11,2024-11-24,08:17:07.492000
+20,card,32.82,Latte,Night,Sun,Sep,7,9,2024-09-22,20:19:10.082000
+16,card,32.82,Americano with Milk,Afternoon,Tue,May,2,5,2024-05-14,16:57:57.224000
+10,card,18.12,Espresso,Morning,Sat,Aug,6,8,2024-08-31,10:22:26.877000
+14,card,27.92,Americano with Milk,Afternoon,Sun,Aug,7,8,2024-08-18,14:30:21.605000
+9,card,18.12,Espresso,Morning,Fri,Jul,5,7,2024-07-26,09:20:34.344000
+12,card,37.72,Cocoa,Afternoon,Sat,Jun,6,6,2024-06-15,12:24:35.130000
+17,card,32.82,Americano with Milk,Night,Sat,May,6,5,2024-05-11,17:28:54.132000
+16,card,28.9,Americano,Afternoon,Mon,Mar,1,3,2024-03-11,16:24:26.401000
+18,card,35.76,Cappuccino,Night,Wed,Feb,3,2,2025-02-05,18:18:34.427000
+18,card,35.76,Cappuccino,Night,Tue,Nov,2,11,2024-11-05,18:55:18.626000
+10,card,27.92,Americano with Milk,Morning,Fri,Aug,5,8,2024-08-09,10:26:47.174000
+19,card,32.82,Americano with Milk,Night,Wed,Apr,3,4,2024-04-24,19:39:49.983000
+12,card,25.96,Americano,Afternoon,Mon,Mar,1,3,2025-03-10,12:36:14.796000
+15,card,27.92,Americano with Milk,Afternoon,Sun,Sep,7,9,2024-09-22,15:35:24.234000
+10,card,18.12,Espresso,Morning,Sat,Sep,6,9,2024-09-07,10:37:52.335000
+14,card,35.76,Latte,Afternoon,Thu,Feb,4,2,2025-02-27,14:43:19.325000
+8,card,25.96,Cortado,Morning,Fri,Oct,5,10,2024-10-11,08:12:20.254000
+10,card,25.96,Americano,Morning,Mon,Oct,1,10,2024-10-21,10:25:09.344000
+18,card,32.82,Cappuccino,Night,Wed,Sep,3,9,2024-09-04,18:03:46.925000
+10,card,23.02,Americano,Morning,Sat,Jul,6,7,2024-07-20,10:39:21.044000
+8,card,25.96,Americano,Morning,Fri,Nov,5,11,2024-11-01,08:30:57.642000
+15,card,32.82,Latte,Afternoon,Sun,Aug,7,8,2024-08-11,15:53:51.552000
+8,card,25.96,Cortado,Morning,Wed,Oct,3,10,2024-10-02,08:42:44.642000
+13,card,35.76,Cappuccino,Afternoon,Tue,Jan,2,1,2025-01-07,13:29:02.789000
+11,card,32.82,Americano with Milk,Morning,Mon,May,1,5,2024-05-13,11:03:53.348000
+12,card,25.96,Americano,Afternoon,Thu,Mar,4,3,2025-03-20,12:48:24.389000
+19,card,35.76,Cappuccino,Night,Tue,Jan,2,1,2025-01-14,19:41:55.896000
+16,card,37.72,Cappuccino,Afternoon,Mon,Jun,1,6,2024-06-24,16:46:00.573000
+8,card,25.96,Americano,Morning,Mon,Mar,1,3,2025-03-17,08:09:50.056000
+14,card,18.12,Espresso,Afternoon,Wed,Jul,3,7,2024-07-24,14:45:49.766000
+15,card,23.02,Cortado,Afternoon,Tue,Sep,2,9,2024-09-10,15:21:54.387000
+17,card,25.96,Americano,Night,Wed,Oct,3,10,2024-10-09,17:27:48.880000
+16,card,35.76,Cappuccino,Afternoon,Mon,Dec,1,12,2024-12-02,16:12:23.920000
+21,card,32.82,Americano with Milk,Night,Tue,Jun,2,6,2024-06-04,21:36:06.924000
+21,card,35.76,Latte,Night,Thu,Nov,4,11,2024-11-14,21:24:31.586000
+18,card,25.96,Americano,Night,Wed,Mar,3,3,2025-03-12,18:10:34.209000
+16,card,23.02,Americano,Afternoon,Thu,Aug,4,8,2024-08-01,16:26:07.331000
+7,card,32.82,Latte,Morning,Mon,Sep,1,9,2024-09-09,07:56:37.669000
+8,card,35.76,Latte,Morning,Wed,Dec,3,12,2024-12-04,08:52:15.008000
+13,card,35.76,Latte,Afternoon,Wed,Oct,3,10,2024-10-09,13:03:08.514000
+8,card,23.02,Americano,Morning,Fri,Aug,5,8,2024-08-23,08:33:38.712000
+19,card,37.72,Latte,Night,Mon,Jun,1,6,2024-06-10,19:37:23.602000
+18,card,35.76,Hot Chocolate,Night,Sat,Dec,6,12,2024-12-21,18:02:36.869000
+14,card,38.7,Latte,Afternoon,Tue,Mar,2,3,2024-03-05,14:34:55.963000
+11,card,32.82,Latte,Morning,Tue,Aug,2,8,2024-08-20,11:42:20
+11,card,25.96,Americano,Morning,Tue,Nov,2,11,2024-11-26,11:03:47.275000
+11,card,32.82,Americano with Milk,Morning,Sat,Jun,6,6,2024-06-29,11:41:26.609000
+9,card,32.82,Cappuccino,Morning,Tue,Sep,2,9,2024-09-10,09:32:46.786000
+11,card,28.9,Cortado,Morning,Wed,Mar,3,3,2024-03-20,11:41:16.403000
+13,card,32.82,Americano with Milk,Afternoon,Thu,May,4,5,2024-05-02,13:49:39.898000
+21,card,35.76,Latte,Night,Mon,Oct,1,10,2024-10-21,21:05:36.106000
+16,card,37.72,Cocoa,Afternoon,Tue,May,2,5,2024-05-07,16:42:07.900000
+20,card,25.96,Americano,Night,Fri,Mar,5,3,2025-03-14,20:20:22.022000
+15,card,30.86,Americano with Milk,Afternoon,Thu,Oct,4,10,2024-10-03,15:12:05.160000
+7,card,35.76,Latte,Morning,Tue,Nov,2,11,2024-11-19,07:54:46.893000
+12,card,23.02,Cortado,Afternoon,Thu,Sep,4,9,2024-09-12,12:31:06.997000
+16,card,35.76,Cocoa,Afternoon,Fri,Mar,5,3,2025-03-14,16:32:40.221000
+10,card,27.92,Americano with Milk,Morning,Thu,Aug,4,8,2024-08-22,10:09:23.470000
+13,card,25.96,Americano,Afternoon,Mon,Feb,1,2,2025-02-03,13:51:03.281000
+18,card,32.82,Hot Chocolate,Night,Tue,Sep,2,9,2024-09-17,18:54:23.783000
+10,card,30.86,Americano with Milk,Morning,Thu,Mar,4,3,2025-03-20,10:06:44.316000
+18,card,38.7,Latte,Night,Fri,Mar,5,3,2024-03-08,18:59:24.941000
+21,card,35.76,Cocoa,Night,Sun,Dec,7,12,2024-12-22,21:55:18.754000
+20,card,35.76,Latte,Night,Wed,Feb,3,2,2025-02-12,20:05:40.740000
+8,card,37.72,Latte,Morning,Tue,Jun,2,6,2024-06-25,08:19:24.244000
+11,card,18.12,Espresso,Morning,Tue,Jul,2,7,2024-07-30,11:13:16.218000
+14,card,27.92,Americano with Milk,Afternoon,Mon,Aug,1,8,2024-08-12,14:05:06.931000
+11,card,23.02,Americano,Morning,Sun,Jul,7,7,2024-07-14,11:02:11.798000
+22,card,37.72,Latte,Night,Fri,May,5,5,2024-05-17,22:36:33.357000
+17,card,25.96,Americano,Night,Mon,Dec,1,12,2024-12-02,17:34:21.695000
+15,card,27.92,Americano with Milk,Afternoon,Tue,Jul,2,7,2024-07-30,15:16:09.628000
+7,card,35.76,Cappuccino,Morning,Mon,Nov,1,11,2024-11-25,07:49:17.954000
+17,card,35.76,Cocoa,Night,Fri,Feb,5,2,2025-02-14,17:04:29.509000
+13,card,35.76,Latte,Afternoon,Fri,Nov,5,11,2024-11-15,13:57:33.894000
+21,card,37.72,Cappuccino,Night,Sun,May,7,5,2024-05-26,21:06:02.621000
+17,card,35.76,Latte,Night,Fri,Mar,5,3,2025-03-07,17:10:29.285000
+10,card,30.86,Americano with Milk,Morning,Sun,Dec,7,12,2024-12-01,10:22:46.588000
+11,card,35.76,Cappuccino,Morning,Fri,Oct,5,10,2024-10-18,11:54:58.816000
+18,card,32.82,Americano with Milk,Night,Thu,May,4,5,2024-05-09,18:13:56.226000
+7,card,35.76,Cocoa,Morning,Fri,Nov,5,11,2024-11-29,07:53:15.838000
+8,card,23.02,Americano,Morning,Sun,Aug,7,8,2024-08-25,08:27:36.405000
+21,card,35.76,Cocoa,Night,Sun,Oct,7,10,2024-10-20,21:17:26.865000
+18,card,30.86,Americano with Milk,Night,Sat,Jan,6,1,2025-01-11,18:01:28.479000
+21,card,32.82,Cocoa,Night,Sat,Aug,6,8,2024-08-10,21:16:48.562000
+10,card,21.06,Espresso,Morning,Wed,Oct,3,10,2024-10-09,10:37:56.926000
+21,card,32.82,Americano with Milk,Night,Tue,Jun,2,6,2024-06-11,21:27:41.900000
+22,card,35.76,Cappuccino,Night,Sun,Oct,7,10,2024-10-20,22:17:29.041000
+22,card,27.92,Americano,Night,Fri,Jul,5,7,2024-07-05,22:18:03.324000
+20,card,32.82,Latte,Night,Tue,Aug,2,8,2024-08-20,20:44:14.852000
+16,card,28.9,Cortado,Afternoon,Sat,Mar,6,3,2024-03-16,16:03:21.738000
+13,card,35.76,Cappuccino,Afternoon,Sat,Oct,6,10,2024-10-12,13:18:47.055000
+14,card,35.76,Cappuccino,Afternoon,Sat,Feb,6,2,2025-02-01,14:35:18.871000
+9,card,35.76,Latte,Morning,Mon,Oct,1,10,2024-10-21,09:34:25.547000
+9,card,27.92,Americano with Milk,Morning,Mon,Sep,1,9,2024-09-23,09:03:36.954000
+11,card,23.02,Americano,Morning,Wed,Jul,3,7,2024-07-10,11:10:41.690000
+21,card,23.02,Americano,Night,Tue,Sep,2,9,2024-09-10,21:30:27.036000
+14,card,25.96,Americano,Afternoon,Thu,Feb,4,2,2025-02-20,14:37:59.781000
+16,card,35.76,Latte,Afternoon,Wed,Feb,3,2,2025-02-05,16:35:33.007000
+10,card,27.92,Americano with Milk,Morning,Thu,Aug,4,8,2024-08-22,10:47:59.356000
+13,card,25.96,Americano,Afternoon,Wed,Feb,3,2,2025-02-05,13:20:46.169000
+10,card,38.7,Latte,Morning,Fri,Mar,5,3,2024-03-29,10:56:19.495000
+13,card,27.92,Americano,Afternoon,Sun,May,7,5,2024-05-12,13:27:39.043000
+13,card,27.92,Americano,Afternoon,Mon,Apr,1,4,2024-04-29,13:27:56.949000
+17,card,25.96,Americano,Night,Fri,Feb,5,2,2025-02-28,17:32:16.632000
+18,card,27.92,Americano with Milk,Night,Mon,Aug,1,8,2024-08-12,18:05:04.830000
+13,card,32.82,Latte,Afternoon,Sun,Jul,7,7,2024-07-21,13:42:31.444000
+16,card,35.76,Latte,Afternoon,Sat,Sep,6,9,2024-09-28,16:57:20.118000
+19,card,30.86,Americano with Milk,Night,Tue,Oct,2,10,2024-10-29,19:02:05.362000
+14,card,32.82,Latte,Afternoon,Thu,Aug,4,8,2024-08-22,14:16:12.066000
+18,card,32.82,Cappuccino,Night,Thu,Jul,4,7,2024-07-18,18:18:23.378000
+9,card,30.86,Americano with Milk,Morning,Fri,Jan,5,1,2025-01-10,09:16:36.498000
+9,card,30.86,Americano with Milk,Morning,Sat,Mar,6,3,2025-03-15,09:53:22.276000
+17,card,27.92,Americano,Night,Thu,Apr,4,4,2024-04-25,17:09:43.534000
+15,card,32.82,Latte,Afternoon,Sat,Sep,6,9,2024-09-07,15:55:08.533000
+13,card,32.82,Cappuccino,Afternoon,Thu,Aug,4,8,2024-08-01,13:49:07.265000
+9,card,30.86,Americano with Milk,Morning,Sat,Mar,6,3,2025-03-08,09:41:52.900000
+14,card,25.96,Americano,Afternoon,Fri,Mar,5,3,2025-03-14,14:35:17.282000
+18,card,37.72,Latte,Night,Wed,Jun,3,6,2024-06-19,18:29:58.961000
+15,card,35.76,Hot Chocolate,Afternoon,Mon,Feb,1,2,2025-02-10,15:47:44.088000
+10,card,37.72,Cappuccino,Morning,Mon,May,1,5,2024-05-06,10:06:51.625000
+8,card,32.82,Latte,Morning,Thu,Sep,4,9,2024-09-26,08:43:35.049000
+20,card,35.76,Latte,Night,Sat,Sep,6,9,2024-09-28,20:38:36.502000
+8,card,25.96,Americano,Morning,Fri,Oct,5,10,2024-10-04,08:45:38.952000
+15,card,18.12,Espresso,Afternoon,Fri,Aug,5,8,2024-08-16,15:18:51.737000
+15,card,30.86,Americano with Milk,Afternoon,Sat,Nov,6,11,2024-11-30,15:33:44.296000
+14,card,25.96,Cortado,Afternoon,Thu,Jan,4,1,2025-01-02,14:41:10.594000
+17,card,25.96,Americano,Night,Sun,Feb,7,2,2025-02-23,17:27:44.922000
+9,card,30.86,Americano with Milk,Morning,Fri,Feb,5,2,2025-02-07,09:07:04.654000
+14,card,32.82,Americano with Milk,Afternoon,Sun,May,7,5,2024-05-26,14:40:58.882000
+10,card,25.96,Americano,Morning,Sun,Feb,7,2,2025-02-16,10:46:43.223000
+20,card,32.82,Latte,Night,Sat,Sep,6,9,2024-09-21,20:33:58.175000
+16,card,35.76,Latte,Afternoon,Fri,Nov,5,11,2024-11-22,16:33:49.898000
+10,card,32.82,Americano with Milk,Morning,Tue,Jun,2,6,2024-06-25,10:28:26.408000
+12,card,18.12,Espresso,Afternoon,Tue,Sep,2,9,2024-09-17,12:38:33.768000
+13,card,25.96,Americano,Afternoon,Wed,Feb,3,2,2025-02-12,13:08:09.325000
+15,card,25.96,Cortado,Afternoon,Sat,Oct,6,10,2024-10-26,15:06:19.074000
+14,card,30.86,Americano with Milk,Afternoon,Sun,Feb,7,2,2025-02-02,14:22:57.323000
+12,card,30.86,Americano with Milk,Afternoon,Sun,Oct,7,10,2024-10-06,12:11:43.360000
+20,card,37.72,Cappuccino,Night,Tue,Jun,2,6,2024-06-04,20:50:33.896000
+14,card,25.96,Americano,Afternoon,Fri,Feb,5,2,2025-02-21,14:17:54.803000
+15,card,25.96,Cortado,Afternoon,Mon,Oct,1,10,2024-10-21,15:39:04.686000
+21,card,23.02,Cortado,Night,Thu,Jul,4,7,2024-07-25,21:06:01.272000
+9,card,30.86,Americano with Milk,Morning,Mon,Dec,1,12,2024-12-23,09:22:17.895000
+16,card,35.76,Latte,Afternoon,Mon,Nov,1,11,2024-11-18,16:44:49.074000
+16,card,27.92,Cortado,Afternoon,Tue,May,2,5,2024-05-28,16:25:39.330000
+10,card,25.96,Cortado,Morning,Sun,Oct,7,10,2024-10-06,10:06:47.136000
+21,card,35.76,Hot Chocolate,Night,Tue,Oct,2,10,2024-10-15,21:35:19.943000
+10,card,25.96,Americano,Morning,Wed,Mar,3,3,2025-03-05,10:02:04.297000
+10,card,38.7,Cocoa,Morning,Tue,Mar,2,3,2024-03-26,10:35:49.679000
+18,card,35.76,Latte,Night,Tue,Jan,2,1,2025-01-21,18:54:13.394000
+15,card,37.72,Cappuccino,Afternoon,Wed,May,3,5,2024-05-29,15:45:12.738000
+12,card,35.76,Cappuccino,Afternoon,Mon,Feb,1,2,2025-02-17,12:48:58.321000
+14,card,27.92,Cortado,Afternoon,Sun,May,7,5,2024-05-26,14:26:05.248000
+12,card,30.86,Americano with Milk,Afternoon,Mon,Oct,1,10,2024-10-07,12:17:56.717000
+15,card,35.76,Latte,Afternoon,Mon,Dec,1,12,2024-12-30,15:12:45.043000
+22,card,32.82,Hot Chocolate,Night,Fri,Jul,5,7,2024-07-12,22:35:29.518000
+17,card,35.76,Latte,Night,Sun,Oct,7,10,2024-10-13,17:53:20.717000
+9,card,27.92,Americano with Milk,Morning,Fri,Aug,5,8,2024-08-23,09:14:52.024000
+20,card,35.76,Latte,Night,Tue,Oct,2,10,2024-10-15,20:12:28.631000
+9,card,32.82,Hot Chocolate,Morning,Mon,Sep,1,9,2024-09-09,09:50:51.738000
+20,card,27.92,Cortado,Night,Tue,Jun,2,6,2024-06-18,20:35:49.497000
+18,card,32.82,Latte,Night,Wed,Jul,3,7,2024-07-31,18:04:14.972000
+22,card,35.76,Hot Chocolate,Night,Wed,Oct,3,10,2024-10-02,22:19:40.694000
+8,card,23.02,Americano,Morning,Mon,Jul,1,7,2024-07-22,08:40:49.554000
+20,card,35.76,Latte,Night,Thu,Nov,4,11,2024-11-28,20:25:45.523000
+16,card,27.92,Americano with Milk,Afternoon,Thu,Jul,4,7,2024-07-11,16:48:18.709000
+9,card,18.12,Espresso,Morning,Wed,Jul,3,7,2024-07-24,09:54:37.456000
+8,card,35.76,Cocoa,Morning,Tue,Jan,2,1,2025-01-21,08:05:04.269000
+12,card,38.7,Cappuccino,Afternoon,Sun,Apr,7,4,2024-04-07,12:44:31.936000
+9,card,25.96,Cortado,Morning,Sat,Nov,6,11,2024-11-23,09:10:46.265000
+16,card,35.76,Hot Chocolate,Afternoon,Thu,Oct,4,10,2024-10-17,16:37:12.586000
+7,card,35.76,Latte,Morning,Thu,Oct,4,10,2024-10-17,07:58:06.763000
+12,card,25.96,Americano,Afternoon,Wed,Oct,3,10,2024-10-30,12:09:46.789000
+10,card,30.86,Americano with Milk,Morning,Wed,Oct,3,10,2024-10-16,10:15:47.944000
+16,card,35.76,Cappuccino,Afternoon,Sat,Jan,6,1,2025-01-04,16:14:10.198000
+7,card,27.92,Americano,Morning,Sun,May,7,5,2024-05-19,07:58:38.312000
+17,card,35.76,Latte,Night,Tue,Dec,2,12,2024-12-31,17:10:17.537000
+18,card,35.76,Cocoa,Night,Tue,Mar,2,3,2025-03-04,18:43:21.868000
+14,card,35.76,Latte,Afternoon,Fri,Feb,5,2,2025-02-28,14:52:02.209000
+21,card,32.82,Americano with Milk,Night,Tue,Jun,2,6,2024-06-18,21:20:49.526000
+22,card,23.02,Americano,Night,Sat,Sep,6,9,2024-09-21,22:20:48.360000
+9,card,32.82,Latte,Morning,Thu,Aug,4,8,2024-08-15,09:38:49.735000
+16,card,32.82,Latte,Afternoon,Tue,Sep,2,9,2024-09-24,16:38:48.296000
+19,card,35.76,Cocoa,Night,Mon,Feb,1,2,2025-02-24,19:26:14.767000
+21,card,32.82,Americano with Milk,Night,Thu,Jun,4,6,2024-06-06,21:19:30.436000
+17,card,35.76,Cocoa,Night,Thu,Mar,4,3,2025-03-06,17:49:11.208000
+11,card,25.96,Americano,Morning,Tue,Feb,2,2,2025-02-25,11:04:26.917000
+16,card,27.92,Americano with Milk,Afternoon,Thu,Sep,4,9,2024-09-05,16:39:59.634000
+10,card,37.72,Cocoa,Morning,Fri,May,5,5,2024-05-31,10:39:06.136000
+18,card,23.02,Americano,Night,Tue,Sep,2,9,2024-09-24,18:43:54.082000
+10,card,30.86,Americano with Milk,Morning,Fri,Mar,5,3,2025-03-07,10:26:34.938000
+15,card,35.76,Latte,Afternoon,Mon,Feb,1,2,2025-02-10,15:46:02.637000
+10,card,30.86,Americano with Milk,Morning,Wed,Dec,3,12,2024-12-04,10:26:57.751000
+19,card,32.82,Americano with Milk,Night,Sun,Jun,7,6,2024-06-09,19:21:19.277000
+9,card,25.96,Cortado,Morning,Sat,Dec,6,12,2024-12-28,09:00:23.465000
+16,card,35.76,Cappuccino,Afternoon,Mon,Dec,1,12,2024-12-30,16:36:45.551000
+16,card,30.86,Americano with Milk,Afternoon,Sat,Jan,6,1,2025-01-04,16:12:55.200000
+11,card,23.02,Americano,Morning,Tue,Aug,2,8,2024-08-20,11:09:55.575000
+20,card,35.76,Cocoa,Night,Fri,Nov,5,11,2024-11-29,20:57:54.667000
+16,card,23.02,Cortado,Afternoon,Tue,Jul,2,7,2024-07-30,16:08:52.876000
+11,card,30.86,Americano with Milk,Morning,Tue,Dec,2,12,2024-12-03,11:45:54.433000
+11,card,23.02,Cortado,Morning,Thu,Jul,4,7,2024-07-18,11:35:51.505000
+13,card,38.7,Hot Chocolate,Afternoon,Fri,Apr,5,4,2024-04-19,13:58:54.064000
+22,card,30.86,Americano with Milk,Night,Sat,Dec,6,12,2024-12-07,22:00:09.994000
+13,card,28.9,Americano,Afternoon,Wed,Apr,3,4,2024-04-17,13:32:59.792000
+16,card,35.76,Hot Chocolate,Afternoon,Thu,Oct,4,10,2024-10-17,16:49:33.156000
+10,card,32.82,Americano with Milk,Morning,Tue,Apr,2,4,2024-04-30,10:34:52.250000
+10,card,32.82,Americano with Milk,Morning,Thu,May,4,5,2024-05-16,10:39:49.431000
+17,card,28.9,Americano,Night,Thu,Mar,4,3,2024-03-28,17:27:05.304000
+16,card,35.76,Latte,Afternoon,Sun,Nov,7,11,2024-11-17,16:27:26.184000
+10,card,23.02,Cortado,Morning,Tue,Jul,2,7,2024-07-30,10:17:11.147000
+19,card,28.9,Cortado,Night,Thu,Mar,4,3,2024-03-14,19:00:08.663000
+7,card,35.76,Latte,Morning,Thu,Oct,4,10,2024-10-17,07:47:00.921000
+17,card,35.76,Latte,Night,Mon,Dec,1,12,2024-12-23,17:22:40.297000
+14,card,38.7,Latte,Afternoon,Thu,Apr,4,4,2024-04-18,14:35:49.354000
+11,card,35.76,Cappuccino,Morning,Wed,Mar,3,3,2025-03-05,11:08:31.568000
+11,card,35.76,Latte,Morning,Sun,Oct,7,10,2024-10-20,11:16:51.841000
+14,card,38.7,Latte,Afternoon,Mon,Mar,1,3,2024-03-25,14:27:09.163000
+11,card,23.02,Cortado,Morning,Wed,Sep,3,9,2024-09-25,11:35:32.533000
+16,card,30.86,Americano with Milk,Afternoon,Wed,Oct,3,10,2024-10-23,16:21:09.035000
+21,card,32.82,Latte,Night,Wed,Jul,3,7,2024-07-31,21:55:16.570000
+10,card,32.82,Cappuccino,Morning,Sun,Jul,7,7,2024-07-14,10:56:30.251000
+21,card,32.82,Latte,Night,Tue,Jul,2,7,2024-07-30,21:33:19.198000
+8,card,30.86,Americano with Milk,Morning,Mon,Dec,1,12,2024-12-02,08:21:29.576000
+20,card,37.72,Cocoa,Night,Mon,May,1,5,2024-05-20,20:37:57.316000
+22,card,32.82,Americano with Milk,Night,Thu,May,4,5,2024-05-23,22:48:10.813000
+8,card,30.86,Americano with Milk,Morning,Tue,Jan,2,1,2025-01-21,08:19:28.276000
+8,card,32.82,Hot Chocolate,Morning,Tue,Sep,2,9,2024-09-10,08:12:02.450000
+9,card,35.76,Cappuccino,Morning,Sat,Feb,6,2,2025-02-15,09:22:51.930000
+12,card,38.7,Cappuccino,Afternoon,Fri,Mar,5,3,2024-03-29,12:41:32.125000
+22,card,35.76,Hot Chocolate,Night,Wed,Oct,3,10,2024-10-02,22:20:23.651000
+16,card,35.76,Cocoa,Afternoon,Tue,Oct,2,10,2024-10-29,16:17:33.443000
+20,card,35.76,Cappuccino,Night,Tue,Jan,2,1,2025-01-28,20:13:45.162000
+14,card,28.9,Americano,Afternoon,Fri,Mar,5,3,2024-03-08,14:45:11.048000
+20,card,35.76,Hot Chocolate,Night,Mon,Jan,1,1,2025-01-20,20:08:11.432000
+18,card,30.86,Americano with Milk,Night,Wed,Feb,3,2,2025-02-05,18:25:29.322000
+14,card,35.76,Hot Chocolate,Afternoon,Sun,Feb,7,2,2025-02-16,14:15:37.049000
+11,card,37.72,Latte,Morning,Wed,Jun,3,6,2024-06-19,11:11:27.807000
+20,card,25.96,Cortado,Night,Thu,Oct,4,10,2024-10-03,20:12:57.761000
+12,card,32.82,Latte,Afternoon,Tue,Jul,2,7,2024-07-30,12:08:07.508000
+21,card,32.82,Latte,Night,Tue,Jul,2,7,2024-07-23,21:01:40.612000
+12,card,32.82,Cappuccino,Afternoon,Sun,Sep,7,9,2024-09-01,12:11:24.745000
+14,card,23.02,Americano,Afternoon,Thu,Aug,4,8,2024-08-15,14:17:48.183000
+10,card,37.72,Latte,Morning,Fri,Apr,5,4,2024-04-26,10:12:50.618000
+19,card,30.86,Americano with Milk,Night,Thu,Dec,4,12,2024-12-19,19:48:18.022000
+18,card,35.76,Cocoa,Night,Sun,Oct,7,10,2024-10-20,18:34:16.387000
+21,card,27.92,Americano with Milk,Night,Wed,Jul,3,7,2024-07-24,21:17:36.797000
+9,card,30.86,Americano with Milk,Morning,Thu,Oct,4,10,2024-10-17,09:24:27.162000
+14,card,35.76,Cappuccino,Afternoon,Sat,Jan,6,1,2025-01-25,14:38:24.586000
+12,card,23.02,Cortado,Afternoon,Thu,Sep,4,9,2024-09-12,12:32:22.981000
+19,card,35.76,Hot Chocolate,Night,Sun,Dec,7,12,2024-12-22,19:35:45.848000
+19,card,38.7,Hot Chocolate,Night,Sat,Mar,6,3,2024-03-09,19:19:10.084000
+9,card,30.86,Americano with Milk,Morning,Thu,Jan,4,1,2025-01-02,09:58:05.335000
+10,card,21.06,Espresso,Morning,Tue,Oct,2,10,2024-10-22,10:51:32.286000
+10,card,25.96,Cortado,Morning,Mon,Oct,1,10,2024-10-21,10:41:44.725000
+7,card,30.86,Americano with Milk,Morning,Fri,Mar,5,3,2025-03-21,07:06:11.979000
+19,card,30.86,Americano with Milk,Night,Wed,Oct,3,10,2024-10-16,19:37:42.411000
+17,card,32.82,Americano with Milk,Night,Sat,May,6,5,2024-05-11,17:20:30.398000
+13,card,35.76,Hot Chocolate,Afternoon,Thu,Dec,4,12,2024-12-19,13:38:56.787000
+21,card,27.92,Americano with Milk,Night,Fri,Sep,5,9,2024-09-20,21:31:36.580000
+14,card,23.02,Cortado,Afternoon,Tue,Sep,2,9,2024-09-24,14:31:28.741000
+15,card,32.82,Americano with Milk,Afternoon,Sun,May,7,5,2024-05-19,15:58:58.192000
+17,card,35.76,Latte,Night,Fri,Nov,5,11,2024-11-15,17:55:01.487000
+12,card,33.8,Americano with Milk,Afternoon,Sat,Apr,6,4,2024-04-20,12:09:42.664000
+11,card,35.76,Latte,Morning,Sun,Dec,7,12,2024-12-15,11:09:24.807000
+16,card,35.76,Latte,Afternoon,Mon,Dec,1,12,2024-12-23,16:14:50.443000
+12,card,32.82,Latte,Afternoon,Thu,Aug,4,8,2024-08-15,12:38:37.563000
+17,card,23.02,Espresso,Night,Fri,Jun,5,6,2024-06-28,17:51:53.993000
+14,card,28.9,Cortado,Afternoon,Sun,Apr,7,4,2024-04-07,14:16:24.949000
+17,card,30.86,Americano with Milk,Night,Thu,Feb,4,2,2025-02-13,17:17:20.197000
